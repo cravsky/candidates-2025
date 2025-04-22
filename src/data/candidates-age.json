@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Donald Tusk",
+    "photo": "https://images.pexels.com/photos/5792641/pexels-photo-5792641.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 67,
+    "partia": "Koalicja Obywatelska"
+  },
+  {
+    "id": "2",
+    "name": "Mateusz Morawiecki",
+    "photo": "https://images.pexels.com/photos/5397723/pexels-photo-5397723.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 55,
+    "partia": "Prawo i Sprawiedliwość"
+  },
+  {
+    "id": "3",
+    "name": "Szymon Hołownia",
+    "photo": "https://images.pexels.com/photos/8370711/pexels-photo-8370711.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 47,
+    "partia": "Polska 2050"
+  },
+  {
+    "id": "4",
+    "name": "Władysław Kosiniak-Kamysz",
+    "photo": "https://images.pexels.com/photos/5792632/pexels-photo-5792632.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 42,
+    "partia": "Polskie Stronnictwo Ludowe"
+  }
+]

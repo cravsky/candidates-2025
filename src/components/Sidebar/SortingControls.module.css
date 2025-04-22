@@ -1,0 +1,110 @@
+.controls {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  padding: 24px;
+  position: sticky;
+  top: 24px;
+}
+
+.title {
+  font-size: 1.4rem;
+  margin: 0 0 24px;
+  color: #333;
+  border-bottom: 2px solid #d4213d;
+  padding-bottom: 8px;
+  font-weight: 600;
+}
+
+.optionsContainer {
+  margin-bottom: 24px;
+}
+
+.option {
+  margin-bottom: 16px;
+  position: relative;
+}
+
+.radioInput {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.radioLabel {
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  user-select: none;
+}
+
+.radioControl {
+  position: relative;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 2px solid #d4213d;
+  margin-right: 12px;
+  transition: all 0.2s ease;
+}
+
+.radioControl::after {
+  content: "";
+  position: absolute;
+  display: none;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #d4213d;
+}
+
+.radioInput:checked ~ .radioLabel .radioControl::after {
+  display: block;
+}
+
+.radioInput:focus ~ .radioLabel .radioControl {
+  box-shadow: 0 0 0 3px rgba(212, 33, 61, 0.2);
+}
+
+.radioText {
+  font-size: 1rem;
+  color: #333;
+}
+
+.infoBox {
+  background-color: #f8f9fa;
+  padding: 16px;
+  border-radius: 6px;
+  margin-top: 24px;
+  border-left: 3px solid #4361ee;
+}
+
+.infoTitle {
+  font-size: 1.1rem;
+  margin: 0 0 8px;
+  color: #333;
+  font-weight: 600;
+}
+
+.infoText {
+  font-size: 0.9rem;
+  line-height: 1.5;
+  color: #6c757d;
+  margin: 0 0 8px;
+}
+
+.infoText:last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .controls {
+    position: static;
+    margin-bottom: 24px;
+  }
+}

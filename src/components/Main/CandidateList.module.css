@@ -1,0 +1,25 @@
+.candidateList {
+  padding: 16px 0;
+}
+
+.listTitle {
+  font-size: 1.6rem;
+  margin: 0 0 24px;
+  color: #333;
+  border-bottom: 2px solid #d4213d;
+  padding-bottom: 8px;
+  font-weight: 600;
+}
+
+.listContainer {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+}
+
+@media (max-width: 768px) {
+  .listContainer {
+    grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+    gap: 16px;
+  }
+}

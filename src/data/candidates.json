@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Andrzej Nowak",
+    "photo": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 62,
+    "commentByName": "As the first candidate alphabetically, Andrzej brings years of economic policy experience to the race.",
+    "commentByAge": "With his extensive experience, Andrzej offers a mature perspective on international relations."
+  },
+  {
+    "id": "2",
+    "name": "Barbara Kowalska",
+    "photo": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 48,
+    "commentByName": "Barbara's campaign focuses on education reform and modernizing Poland's school system.",
+    "commentByAge": "Barbara brings a balance of experience and fresh ideas to her ambitious platform."
+  },
+  {
+    "id": "3",
+    "name": "Czesław Janowski",
+    "photo": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 59,
+    "commentByName": "Czesław has built his campaign around traditional Polish values and heritage preservation.",
+    "commentByAge": "As one of the older candidates, Czesław emphasizes wisdom gained from decades in politics."
+  },
+  {
+    "id": "4",
+    "name": "Dorota Majewska",
+    "photo": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 41,
+    "commentByName": "Dorota represents a new generation of Polish politicians focused on technology and innovation.",
+    "commentByAge": "Among the younger candidates, Dorota brings tech-savvy solutions to traditional problems."
+  },
+  {
+    "id": "5",
+    "name": "Emil Wiśniewski",
+    "photo": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 55,
+    "commentByName": "Emil's platform centers on strengthening Poland's position within the European Union.",
+    "commentByAge": "With decades of diplomatic experience, Emil understands international politics deeply."
+  },
+  {
+    "id": "6",
+    "name": "Franciszka Dąbrowska",
+    "photo": "https://images.pexels.com/photos/1036623/pexels-photo-1036623.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "age": 37,
+    "commentByName": "Franciszka campaigns on environmental protection and sustainable development for Poland.",
+    "commentByAge": "As the youngest candidate, Franciszka represents the voice of Poland's future generations."
+  }
+]
