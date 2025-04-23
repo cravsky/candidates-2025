@@ -1,0 +1,93 @@
+[
+  {
+    "id": "1",
+    "name": "Artur Bartoszewicz",
+    "photo": "https://via.placeholder.com/80",
+    "partia": "-",
+    "stanowisko": "Nauczyciel akademicki, SGH"
+  },
+  {
+    "id": "2",
+    "name": "Magdalena Biejat",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Magdalena_Biejat_2023.jpg",
+    "partia": "-",
+    "stanowisko": "Senatorka, Senat RP"
+  },
+  {
+    "id": "3",
+    "name": "Grzegorz Braun",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Grzegorz_Braun_2023.jpg",
+    "partia": "Konfederacja Korony Polskiej",
+    "stanowisko": "Poseł do Parlamentu Europejskiego"
+  },
+  {
+    "id": "4",
+    "name": "Szymon Hołownia",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Szymon_Ho%C5%82ownia_2023.jpg",
+    "partia": "Polska 2050 Szymona Hołowni",
+    "stanowisko": "Marszałek Sejmu RP"
+  },
+  {
+    "id": "5",
+    "name": "Marek Jakubiak",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marek_Jakubiak_sejm_2015.jpg",
+    "partia": "Federacja dla Rzeczypospolitej",
+    "stanowisko": "Polityk"
+  },
+  {
+    "id": "6",
+    "name": "Maciej Maciak",
+    "photo": "https://via.placeholder.com/80",
+    "partia": "-",
+    "stanowisko": "Dziennikarz"
+  },
+  {
+    "id": "7",
+    "name": "Sławomir Mentzen",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/S%C5%82awomir_Mentzen_2023.jpg",
+    "partia": "Konfederacja Wolność i Niepodległość",
+    "stanowisko": "Doradca podatkowy"
+  },
+  {
+    "id": "8",
+    "name": "Karol Nawrocki",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Karol_Nawrocki_2023.jpg",
+    "partia": "-",
+    "stanowisko": "Prezes IPN"
+  },
+  {
+    "id": "9",
+    "name": "Joanna Senyszyn",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Joanna_Senyszyn_2019.jpg",
+    "partia": "-",
+    "stanowisko": "Dziennikarka"
+  },
+  {
+    "id": "10",
+    "name": "Krzysztof Stanowski",
+    "photo": "https://via.placeholder.com/80",
+    "partia": "-",
+    "stanowisko": "Dziennikarz (Kanał Zero)"
+  },
+  {
+    "id": "11",
+    "name": "Rafał Trzaskowski",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rafa%C5%82_Trzaskowski_2023.jpg",
+    "partia": "Platforma Obywatelska RP",
+    "stanowisko": "Prezydent Warszawy"
+  },
+  {
+    "id": "12",
+    "name": "Marek Marian Woch",
+    "photo": "https://via.placeholder.com/80",
+    "partia": "Bezpartyjni Samorządowcy – Łączy nas Polska",
+    "stanowisko": "Prawnik"
+  },
+  {
+    "id": "13",
+    "name": "Adrian Zandberg",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Adrian_Zandberg_2023.jpg",
+    "partia": "Razem",
+    "stanowisko": "Poseł na Sejm RP"
+  }
+]

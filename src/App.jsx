@@ -3,8 +3,8 @@ import Header from './components/Layout/Header';
 import Footer from './components/Layout/Footer';
 import CandidateList from './components/Main/CandidateList';
 import SortingControls from './components/Sidebar/SortingControls';
-import candidatesAge from './data/candidates-age.json';
-import candidatesAlphabetical from './data/candidates-alphabetical.json';
+import candidatesAge from './data/age.json';
+import candidatesAlphabetical from './data/alphabetical.json';
 import styles from './App.module.css';
 
 function App() {
