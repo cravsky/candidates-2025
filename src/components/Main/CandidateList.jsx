@@ -10,11 +10,10 @@ const CandidateList = ({ candidates, sortCriteria }) => {
           : 'Kandydaci (wg wieku)'}
       </h2>
       <div className={styles.listContainer}>
-        {candidates.map(candidate => (
+        {candidates.map((candidate, index) => (
           <CandidateCard 
-            key={candidate.id}
+            key={index}
             candidate={candidate}
-            sortCriteria={sortCriteria}
           />
         ))}
       </div>

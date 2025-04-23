@@ -1,93 +1,67 @@
 [
   {
-    "id": "1",
     "name": "Joanna Senyszyn",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Joanna_Senyszyn_2019.jpg",
-    "age": 76,
-    "partia": "-"
+    "info1": "Wiek: 76 lat",
+    "info2": "Partia: -"
   },
   {
-    "id": "2",
     "name": "Marek Jakubiak",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Marek_Jakubiak_sejm_2015.jpg",
-    "age": 66,
-    "partia": "Federacja dla Rzeczypospolitej"
+    "info1": "Wiek: 66 lat",
+    "info2": "Partia: Federacja dla Rzeczypospolitej"
   },
   {
-    "id": "3",
     "name": "Grzegorz Braun",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Grzegorz_Braun_2023.jpg",
-    "age": 58,
-    "partia": "Konfederacja Korony Polskiej"
+    "info1": "Wiek: 58 lat",
+    "info2": "Partia: Konfederacja Korony Polskiej"
   },
   {
-    "id": "4",
     "name": "Maciej Maciak",
-    "photo": "https://via.placeholder.com/80",
-    "age": 54,
-    "partia": "-"
+    "info1": "Wiek: 54 lat",
+    "info2": "Partia: -"
   },
   {
-    "id": "5",
     "name": "Rafał Trzaskowski",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rafa%C5%82_Trzaskowski_2023.jpg",
-    "age": 53,
-    "partia": "Platforma Obywatelska RP"
+    "info1": "Wiek: 53 lat",
+    "info2": "Partia: Platforma Obywatelska RP"
   },
   {
-    "id": "6",
     "name": "Artur Bartoszewicz",
-    "photo": "https://via.placeholder.com/80",
-    "age": 51,
-    "partia": "-"
+    "info1": "Wiek: 51 lat",
+    "info2": "Partia: -"
   },
   {
-    "id": "7",
-    "name": "Woch Marek Marian",
-    "photo": "https://via.placeholder.com/80",
-    "age": 46,
-    "partia": "Bezpartyjni Samorządowcy – Łączy nas Polska"
-  },
-  {
-    "id": "8",
-    "name": "Adrian Zandberg",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Adrian_Zandberg_2023.jpg",
-    "age": 45,
-    "partia": "Razem"
-  },
-  {
-    "id": "9",
-    "name": "Magdalena Biejat",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Magdalena_Biejat_2023.jpg",
-    "age": 43,
-    "partia": "-"
-  },
-  {
-    "id": "10",
-    "name": "Karol Nawrocki",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Karol_Nawrocki_2023.jpg",
-    "age": 42,
-    "partia": "-"
-  },
-  {
-    "id": "11",
-    "name": "Krzysztof Stanowski",
-    "photo": "https://via.placeholder.com/80",
-    "age": 42,
-    "partia": "-"
-  },
-  {
-    "id": "12",
     "name": "Szymon Hołownia",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Szymon_Ho%C5%82ownia_2023.jpg",
-    "age": 48,
-    "partia": "Polska 2050 Szymona Hołowni"
+    "info1": "Wiek: 48 lat",
+    "info2": "Partia: Polska 2050 Szymona Hołowni"
   },
   {
-    "id": "13",
+    "name": "Woch Marek Marian",
+    "info1": "Wiek: 46 lat",
+    "info2": "Partia: Bezpartyjni Samorządowcy – Łączy nas Polska"
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Wiek: 45 lat",
+    "info2": "Partia: Razem"
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Wiek: 43 lat",
+    "info2": "Partia: -"
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Wiek: 42 lat",
+    "info2": "Partia: -"
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Wiek: 42 lat",
+    "info2": "Partia: -"
+  },
+  {
     "name": "Sławomir Mentzen",
-    "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7c/S%C5%82awomir_Mentzen_2023.jpg",
-    "age": 38,
-    "partia": "Konfederacja Wolność i Niepodległość"
+    "info1": "Wiek: 38 lat",
+    "info2": "Partia: Konfederacja Wolność i Niepodległość"
   }
 ]
