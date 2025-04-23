@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Rafał Trzaskowski",
+      "info1": "Zdecydowany zwolennik integracji z UE",
+      "info2": "Aktywny udział w strukturach UE, promuje silną pozycję Polski w UE"
+    },
+    {
+      "name": "Szymon Hołownia",
+      "info1": "Zwolennik integracji z UE",
+      "info2": "Postuluje budowę silnej pozycji Polski w ramach UE, podkreśla znaczenie wartości europejskich"
+    },
+    {
+      "name": "Adrian Zandberg",
+      "info1": "Zwolennik integracji z UE",
+      "info2": "Krytyczny wobec neoliberalnych polityk UE, ale wspiera ideę wspólnoty i solidarności europejskiej"
+    },
+    {
+      "name": "Magdalena Biejat",
+      "info1": "Zwolenniczka integracji z UE",
+      "info2": "Wspiera politykę społeczną i klimatyczną UE, promuje współpracę z państwami członkowskimi"
+    },
+    {
+      "name": "Joanna Senyszyn",
+      "info1": "Umiarkowana zwolenniczka UE",
+      "info2": "Popiera członkostwo Polski w UE, promuje świecki i liberalny model państwa"
+    },
+    {
+      "name": "Artur Bartoszewicz",
+      "info1": "Technokratyczne podejście do UE",
+      "info2": "Popiera wykorzystanie funduszy unijnych i integrację gospodarczą, neutralny politycznie"
+    },
+    {
+      "name": "Karol Nawrocki",
+      "info1": "Neutralny wobec UE",
+      "info2": "Koncentruje się na polityce krajowej, wypowiedzi wobec UE umiarkowane"
+    },
+    {
+      "name": "Krzysztof Stanowski",
+      "info1": "Niezaangażowany politycznie",
+      "info2": "Dziennikarz, brak jednoznacznych deklaracji w sprawach UE"
+    },
+    {
+      "name": "Marek Marian Woch",
+      "info1": "Nieznane stanowisko wobec UE",
+      "info2": "Brak publicznych wypowiedzi nt. integracji europejskiej"
+    },
+    {
+      "name": "Maciej Maciak",
+      "info1": "Eurorealista",
+      "info2": "Krytyczny wobec niektórych działań UE, promuje niezależność polityczną"
+    },
+    {
+      "name": "Marek Jakubiak",
+      "info1": "Sceptyczny wobec UE",
+      "info2": "Krytykuje politykę UE wobec Polski, podkreśla suwerenność narodową"
+    },
+    {
+      "name": "Sławomir Mentzen",
+      "info1": "Eurosceptyk",
+      "info2": "Krytyczny wobec integracji, sprzeciwia się wpływowi UE na politykę krajową"
+    },
+    {
+      "name": "Grzegorz Braun",
+      "info1": "Silny eurosceptyk",
+      "info2": "Wzywa do wyjścia Polski z UE, otwarcie krytykuje jej instytucje i politykę"
+    }
+  ]

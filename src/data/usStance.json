@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Rafał Trzaskowski",
+      "info1": "Zdecydowany zwolennik współpracy z USA",
+      "info2": "Podkreśla strategiczne partnerstwo, popiera obecność wojskową i współpracę gospodarczą"
+    },
+    {
+      "name": "Szymon Hołownia",
+      "info1": "Pozytywnie nastawiony do współpracy z USA",
+      "info2": "Popiera sojusz w ramach NATO, współpracę militarną i dyplomatyczną"
+    },
+    {
+      "name": "Karol Nawrocki",
+      "info1": "Proamerykański",
+      "info2": "Podkreśla wspólnotę interesów z USA, wspiera politykę historyczną zgodną z linią transatlantycką"
+    },
+    {
+      "name": "Magdalena Biejat",
+      "info1": "Krytyczna, ale otwarta na współpracę",
+      "info2": "Popiera współpracę w ramach NATO, ale krytykuje niektóre aspekty polityki zagranicznej USA"
+    },
+    {
+      "name": "Adrian Zandberg",
+      "info1": "Ostrożny sojusznik USA",
+      "info2": "Popiera współpracę bezpieczeństwa, ale z akcentem na suwerenność Polski"
+    },
+    {
+      "name": "Joanna Senyszyn",
+      "info1": "Umiarkowanie pozytywna wobec USA",
+      "info2": "W przeszłości krytykowała aspekty polityki USA, ale nie sprzeciwia się sojuszowi"
+    },
+    {
+      "name": "Artur Bartoszewicz",
+      "info1": "Neutralny technokrata",
+      "info2": "Nie wypowiada się politycznie o USA, skupia się na ekonomii"
+    },
+    {
+      "name": "Marek Marian Woch",
+      "info1": "Brak znanych poglądów nt. USA",
+      "info2": "Brak publicznych wypowiedzi w tej kwestii"
+    },
+    {
+      "name": "Marek Jakubiak",
+      "info1": "Sceptyczny wobec zależności od USA",
+      "info2": "Podkreśla potrzebę większej suwerenności w polityce zagranicznej"
+    },
+    {
+      "name": "Sławomir Mentzen",
+      "info1": "Krytyczny wobec wpływu USA",
+      "info2": "Krytykuje dominację USA w NATO, promuje niezależność geopolityczną"
+    },
+    {
+      "name": "Grzegorz Braun",
+      "info1": "Silnie antyamerykański",
+      "info2": "Otwarcie krytykuje obecność USA w Polsce i NATO, promuje izolacjonizm"
+    },
+    {
+      "name": "Maciej Maciak",
+      "info1": "Wrogi wobec USA",
+      "info2": "Szerzy narracje antyamerykańskie, sprzeciwia się współpracy militarnej"
+    },
+    {
+      "name": "Krzysztof Stanowski",
+      "info1": "Niezaangażowany politycznie",
+      "info2": "Brak jednoznacznych wypowiedzi nt. relacji z USA"
+    }
+  ]
