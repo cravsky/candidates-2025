@@ -1,0 +1,67 @@
+[
+    {
+      "name": "Szymon Hołownia",
+      "info1": "Marszałek Sejmu RP",
+      "info2": "Dziennikarz, prowadzący programów telewizyjnych"
+    },
+    {
+      "name": "Rafał Trzaskowski",
+      "info1": "Prezydent m.st. Warszawy",
+      "info2": "Wykładowca akademicki"
+    },
+    {
+      "name": "Magdalena Biejat",
+      "info1": "Senatorka RP",
+      "info2": "Socjolożka, działaczka społeczna"
+    },
+    {
+      "name": "Joanna Senyszyn",
+      "info1": "Posłanka na Sejm RP, Europosłanka",
+      "info2": "Profesor nauk humanistycznych"
+    },
+    {
+      "name": "Adrian Zandberg",
+      "info1": "Poseł na Sejm RP",
+      "info2": "Wykładowca akademicki"
+    },
+    {
+      "name": "Grzegorz Braun",
+      "info1": "Poseł na Sejm RP",
+      "info2": "Reżyser filmów dokumentalnych"
+    },
+    {
+      "name": "Marek Jakubiak",
+      "info1": "Poseł na Sejm RP",
+      "info2": "Przedsiębiorca, właściciel browaru"
+    },
+    {
+      "name": "Karol Nawrocki",
+      "info1": "Prezes Instytutu Pamięci Narodowej",
+      "info2": "Historyk, menedżer instytucji kultury"
+    },
+    {
+      "name": "Sławomir Mentzen",
+      "info1": "Radny sejmiku województwa kujawsko-pomorskiego",
+      "info2": "Doradca podatkowy"
+    },
+    {
+      "name": "Marek Marian Woch",
+      "info1": "Pracownik Biura Rzecznika Praw Obywatelskich",
+      "info2": "Prawnik"
+    },
+    {
+        "name": "Artur Bartoszewicz",
+        "info1": "Brak stanowisk w administracji",
+        "info2": "Nauczyciel akademicki SGH"
+    },
+    {
+        "name": "Krzysztof Stanowski",
+        "info1": "Brak stanowisk w administracji",
+        "info2": "Współzałożyciel Kanału Zero, dziennikarz"
+    },
+    {
+      "name": "Maciej Maciak",
+      "info1": "Brak stanowisk w administracji",
+      "info2": "Dziennikarz, YouTuber"
+    }
+  ]

@@ -5,11 +5,30 @@ import CandidateList from './components/Main/CandidateList';
 import SortingControls from './components/Sidebar/SortingControls';
 import candidatesAge from './data/age.json';
 import candidatesAlphabetical from './data/alphabetical.json';
+import candidatesControversies from './data/controversies.json';
+import candidatesExperience from './data/experience.json';
+import candidatesHighestPosition from './data/highestPosition.json';
 import styles from './App.module.css';
 
 function App() {
   const [sortCriteria, setSortCriteria] = useState('alphabetical');
-  const candidates = sortCriteria === 'alphabetical' ? candidatesAlphabetical : candidatesAge;
+  
+  const getCandidates = (criteria) => {
+    switch(criteria) {
+      case 'age':
+        return candidatesAge;
+      case 'controversies':
+        return candidatesControversies;
+      case 'experience':
+        return candidatesExperience;
+      case 'highestPosition':
+        return candidatesHighestPosition;
+      default:
+        return candidatesAlphabetical;
+    }
+  };
+
+  const candidates = getCandidates(sortCriteria);
 
   const handleSortingChange = (criteria) => {
     setSortCriteria(criteria);
