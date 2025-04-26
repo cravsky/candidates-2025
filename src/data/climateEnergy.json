@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Silne poparcie dla polityki klimatycznej",
+    "info2": "Wspiera odnawialne źródła energii, odchodzenie od węgla i rozwój energetyki atomowej",
+    "sources": [
+      "https://partiarazem.pl",
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Silne poparcie dla transformacji energetycznej",
+    "info2": "Promuje odnawialne źródła energii, dekarbonizację i inwestycje w OZE",
+    "sources": [
+      "https://partiarazem.pl",
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Proklimatyczna postawa",
+    "info2": "Popiera rozwój odnawialnych źródeł energii, transformację energetyczną oraz inwestycje w atom",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Umiarkowanie proklimatyczne stanowisko",
+    "info2": "Wspiera odnawialne źródła energii, zrównoważoną transformację, ostrożność wobec atomu",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Wspiera transformację energetyczną",
+    "info2": "Popiera inwestycje w odnawialne źródła energii i rozwój energetyki atomowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Ostrożny wobec transformacji energetycznej",
+    "info2": "Podkreśla znaczenie bezpieczeństwa energetycznego, wspiera atom i węgiel jako filary",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Sceptyczny wobec szybkiej transformacji",
+    "info2": "Popiera rozwój energetyki opartej o węgiel i gaz, krytyczny wobec Zielonego Ładu",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Sceptyczny wobec polityki klimatycznej",
+    "info2": "Krytykuje Zielony Ład, wspiera wykorzystanie własnych zasobów energetycznych (węgiel, gaz)",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Przeciwnik polityki klimatycznej UE",
+    "info2": "Sprzeciwia się dekarbonizacji i wspiera energetykę węglową",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Brak jasno określonego stanowiska",
+    "info2": "Nieznane poglądy w kwestii klimatu i energii",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Technokratyczne podejście",
+    "info2": "Analizuje aspekty ekonomiczne transformacji energetycznej bez wyraźnych deklaracji",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak wyraźnego stanowiska",
+    "info2": "Nie wypowiadał się na tematy klimatyczne",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak wyraźnego stanowiska",
+    "info2": "Nie wypowiadał się na tematy klimatu i energetyki",
+    "sources": [],
+    "noInfo": true
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Silne poparcie dla wzmacniania bezpieczeństwa",
+    "info2": "Wspiera inwestycje w armię i obronę cywilną, mocno popiera NATO",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Silne poparcie dla bezpieczeństwa",
+    "info2": "Wspiera rozbudowę armii i sojuszy, promuje koncepcję obrony cywilnej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Wysoka troska o bezpieczeństwo narodowe",
+    "info2": "Wspiera rozbudowę wojska i ochronę dziedzictwa narodowego",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Silne poparcie dla rozwoju armii",
+    "info2": "Opowiada się za zwiększeniem wydatków na wojsko i wzmacnianiem granic",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Umiarkowane wsparcie dla rozwoju sił zbrojnych",
+    "info2": "Popiera wzmacnianie obronności, ale krytykuje niektóre decyzje zakupowe",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Własna wizja bezpieczeństwa",
+    "info2": "Popiera rozbudowę samoobrony narodowej, przeciwnik zagranicznych baz wojskowych",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Umiarkowane podejście do bezpieczeństwa",
+    "info2": "Wspiera NATO i obronę cywilną, ale krytyczny wobec wydatków na zbrojenia bez reform",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Socjalne podejście do bezpieczeństwa",
+    "info2": "Popiera obronę cywilną i wsparcie dla obywateli, sceptyczna wobec nadmiernych wydatków na armię",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Krytyczna wobec militaryzacji",
+    "info2": "Sceptyczna wobec zwiększania wydatków wojskowych",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Neutralne, technokratyczne podejście",
+    "info2": "Skupia się na kosztach bezpieczeństwa bez jednoznacznego poparcia wojskowych projektów",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Brak wyraźnego stanowiska",
+    "info2": "Nieznane poglądy nt. bezpieczeństwa",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak wyraźnego stanowiska",
+    "info2": "Nie wypowiadał się na tematy bezpieczeństwa",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak wyraźnego stanowiska",
+    "info2": "Nie wypowiadał się na tematy bezpieczeństwa",
+    "sources": [],
+    "noInfo": true
+  }
+]

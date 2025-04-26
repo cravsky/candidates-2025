@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Zwolennik wolnego rynku",
+    "info2": "Opowiada się za niskimi podatkami, ograniczeniem programów socjalnych, przeciwny wprowadzeniu euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen",
+      "https://mentzen2025.pl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Skrajnie wolnorynkowe poglądy",
+    "info2": "Sprzeciw wobec podatków i programów socjalnych, przeciwny euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Wolnorynkowy konserwatysta",
+    "info2": "Opowiada się za niskimi podatkami, ograniczoną pomocą socjalną, przeciwny euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Konserwatywne podejście gospodarcze",
+    "info2": "Wspiera tradycyjne modele gospodarki narodowej, sceptyczny wobec euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Sceptyczny wobec euro",
+    "info2": "Niejasne stanowisko wobec podatków i programów socjalnych",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Umiarkowane podejście gospodarcze",
+    "info2": "Popiera programy społeczne, ostrożny w kwestii wprowadzenia euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Prospołeczne podejście gospodarcze",
+    "info2": "Popiera programy socjalne, ostrożny zwolennik euro w przyszłości",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Socjalno-demokratyczne podejście gospodarcze",
+    "info2": "Wspiera wysokie podatki dla bogatych, rozbudowane programy socjalne, pozytywnie nastawiona do euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat",
+      "https://partiarazem.pl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Socjalistyczne podejście gospodarcze",
+    "info2": "Wspiera wysokie podatki, rozbudowane programy socjalne, pozytywnie nastawiony do euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg",
+      "https://partiarazem.pl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Socjaldemokratyczne podejście",
+    "info2": "Wspiera redystrybucję bogactwa, programy socjalne, pozytywnie nastawiona do euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Ekonomista o technokratycznym podejściu",
+    "info2": "Bez wyraźnego stanowiska politycznego, techniczne podejście do gospodarki",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak wyraźnego stanowiska gospodarczego",
+    "info2": "Nie wypowiadał się na tematy gospodarcze",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak wyraźnego stanowiska gospodarczego",
+    "info2": "Nie wypowiadał się na tematy gospodarcze",
+    "sources": [],
+    "noInfo": true
+  }
+]

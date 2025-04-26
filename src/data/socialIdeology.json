@@ -1,0 +1,115 @@
+[
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Progresywna ideologia społeczna",
+    "info2": "Wspiera prawa LGBT, prawo do aborcji, pełny rozdział Kościoła od państwa",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat",
+      "https://partiarazem.pl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Progresywna ideologia społeczna",
+    "info2": "Wspiera prawa LGBT, prawa kobiet, świeckie państwo",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg",
+      "https://partiarazem.pl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Progresywna ideologia społeczna",
+    "info2": "Wspiera małżeństwa jednopłciowe, liberalne prawo do aborcji, rozdział Kościoła od państwa",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Umiarkowanie progresywna ideologia społeczna",
+    "info2": "Popiera związki partnerskie, prawo do ograniczonej aborcji, świeckie państwo",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Centrowa ideologia społeczna",
+    "info2": "Popiera ograniczone prawa LGBT, umiarkowane podejście do aborcji, neutralność światopoglądową",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Konserwatywna ideologia społeczna",
+    "info2": "Sprzeciw wobec małżeństw LGBT, ograniczona rola Kościoła w państwie",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Konserwatywna ideologia społeczna",
+    "info2": "Sprzeciw wobec aborcji i małżeństw LGBT, przywiązanie do tradycyjnych wartości",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Konserwatywna ideologia społeczna",
+    "info2": "Sprzeciw wobec praw LGBT, ograniczenie dostępu do aborcji, tradycyjne wartości",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Skrajnie konserwatywna ideologia społeczna",
+    "info2": "Zdecydowany przeciwnik praw LGBT i aborcji, silne powiązanie państwa z religią",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Skrajnie konserwatywna ideologia społeczna",
+    "info2": "Brak poparcia dla praw LGBT i aborcji, promowanie tradycyjnych wartości",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Maciej_Maciak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Brak wyraźnych deklaracji ideologicznych",
+    "info2": "Brak publicznych stanowisk w sprawach społecznych",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak wyraźnych deklaracji ideologicznych",
+    "info2": "Nie wypowiadał się na tematy światopoglądowe",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak wyraźnych deklaracji ideologicznych",
+    "info2": "Brak publicznych stanowisk w sprawach społecznych",
+    "sources": [],
+    "noInfo": true
+  }
+]
