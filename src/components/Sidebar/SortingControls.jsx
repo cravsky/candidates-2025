@@ -54,18 +54,26 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
 
   return (
     <div className={styles.controls}>
-      <h2 className={styles.title}>Sortowanie</h2>
+      <h2 className={styles.title}>Wybierz kategorię</h2>
       <div className={styles.optionsContainer}>
         <div className={styles.group}>
           <h3 className={styles.groupTitle}>Podstawowe</h3>
           {renderRadioOption('alphabetical', 'alphabetical', 'Alfabetycznie (A-Z)')}
+          {renderRadioOption('age', 'age', 'Wiek')}
         </div>
 
         <div className={styles.group}>
           <h3 className={styles.groupTitle}>Doświadczenie</h3>
-          {renderRadioOption('age', 'age', 'Wiek')}
           {renderRadioOption('highestPosition', 'highestPosition', 'Najwyższe stanowisko')}
           {renderRadioOption('experience', 'experience', 'Doświadczenie w administracji')}
+        </div>
+
+        <div className={styles.group}>
+          <h3 className={styles.groupTitle}>Polityka wewnętrzna</h3>
+          {renderRadioOption('climateEnergy', 'climateEnergy', 'Klimat i energia')}
+          {renderRadioOption('economy', 'economy', 'Gospodarka')}
+          {renderRadioOption('security', 'security', 'Bezpieczeństwo')}
+          {renderRadioOption('socialIdeology', 'socialIdeology', 'Ideologia społeczna')}
         </div>
 
         <div className={styles.group}>
@@ -76,13 +84,6 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
           {renderRadioOption('ukraineStance', 'ukraineStance', 'Stosunek do Ukrainy')}
         </div>
 
-        <div className={styles.group}>
-          <h3 className={styles.groupTitle}>Polityka wewnętrzna</h3>
-          {renderRadioOption('climateEnergy', 'climateEnergy', 'Klimat i energia')}
-          {renderRadioOption('economy', 'economy', 'Gospodarka')}
-          {renderRadioOption('security', 'security', 'Bezpieczeństwo')}
-          {renderRadioOption('socialIdeology', 'socialIdeology', 'Ideologia społeczna')}
-        </div>
       </div>
       
       <div className={styles.infoBox}>
