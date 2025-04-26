@@ -58,7 +58,7 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
       <div className={styles.optionsContainer}>
         <div className={styles.group}>
           <h3 className={styles.groupTitle}>Podstawowe</h3>
-          {renderRadioOption('alphabetical', 'alphabetical', 'Alfabetycznie (A-Z)')}
+          {renderRadioOption('alphabetical', 'alphabetical', 'Przynależność partyjna')}
           {renderRadioOption('age', 'age', 'Wiek')}
         </div>
 

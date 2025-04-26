@@ -1,7 +1,7 @@
 [
   {
     "name": "Artur Bartoszewicz",
-    "info1": "Partia: -",
+    "info1": "Partia: brak przynależności",
     "info2": "Stanowisko: Nauczyciel akademicki, SGH",
     "sources": [
       "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
@@ -10,7 +10,7 @@
   },
   {
     "name": "Magdalena Biejat",
-    "info1": "Partia: -",
+    "info1": "Partia: Partia Razem",
     "info2": "Stanowisko: Senatorka, Senat RP",
     "sources": [
       "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
@@ -28,7 +28,7 @@
   },
   {
     "name": "Szymon Hołownia",
-    "info1": "Partia: Polska 2050 Szymona Hołowni",
+    "info1": "Partia: Polska 2050",
     "info2": "Stanowisko: Marszałek Sejmu RP",
     "sources": [
       "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
@@ -46,7 +46,7 @@
   },
   {
     "name": "Maciej Maciak",
-    "info1": "Partia: -",
+    "info1": "Ruch Dobrobytu i Pokoju",
     "info2": "Stanowisko: Dziennikarz, YouTuber",
     "sources": [
       "https://pl.wikipedia.org/wiki/Maciej_Maciak"
@@ -64,7 +64,7 @@
   },
   {
     "name": "Karol Nawrocki",
-    "info1": "Partia: -",
+    "info1": "Partia: brak formalnej przynależności (wspierany przez PiS)",
     "info2": "Stanowisko: Prezes IPN",
     "sources": [
       "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
@@ -73,7 +73,7 @@
   },
   {
     "name": "Joanna Senyszyn",
-    "info1": "Partia: -",
+    "info1": "Partia: brak aktualnej przynależności (wcześniej SLD)",
     "info2": "Stanowisko: Posłanka na Sejm RP",
     "sources": [
       "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
@@ -82,16 +82,16 @@
   },
   {
     "name": "Krzysztof Stanowski",
-    "info1": "Partia: -",
+    "info1": "Partia: brak przynależności",
     "info2": "Stanowisko: Dziennikarz (Kanał Zero)",
     "sources": [
-      "https://pl.wikipedia.org/wiki/Krzysztof_Stanowski"
+      "https://pl.wikipedia.org/wiki/Krzysztof_Stanowski_(dziennikarz)"
     ],
     "noInfo": false
   },
   {
     "name": "Rafał Trzaskowski",
-    "info1": "Partia: Platforma Obywatelska RP",
+    "info1": "Partia: Platforma Obywatelska",
     "info2": "Stanowisko: Prezydent Warszawy",
     "sources": [
       "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
@@ -100,14 +100,16 @@
   },
   {
     "name": "Marek Marian Woch",
-    "info1": "Partia: Bezpartyjni Samorządowcy – Łączy nas Polska",
+    "info1": "Partia: Bezpartyjni Samorządowcy",
     "info2": "Stanowisko: Prawnik",
-    "sources": [],
-    "noInfo": true
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Woch"
+    ],
+    "noInfo": false
   },
   {
     "name": "Adrian Zandberg",
-    "info1": "Partia: Razem",
+    "info1": "Partia: Partia Razem",
     "info2": "Stanowisko: Poseł na Sejm RP",
     "sources": [
       "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
