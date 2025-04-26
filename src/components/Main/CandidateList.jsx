@@ -1,21 +1,26 @@
+import { useEffect, useRef } from 'react';
 import CandidateCard from './CandidateCard';
 import styles from './CandidateList.module.css';
 
 const CandidateList = ({ candidates, sortCriteria }) => {
+  const listRef = useRef(null);
+
+  useEffect(() => {
+    if (listRef.current) {
+      listRef.current.scrollIntoView({ behavior: 'smooth' });
+    }
+  }, [sortCriteria]);
+
   const getListTitle = () => {
     switch(sortCriteria) {
       case 'age':
         return 'Kandydaci (wg wieku)';
-      case 'controversies':
-        return 'Kandydaci (wg kontrowersji)';
       case 'experience':
-        return 'Kandydaci (wg doświadczenia)';
+        return 'Kandydaci (wg doświadczenia w administracji)';
       case 'highestPosition':
         return 'Kandydaci (wg najwyższego stanowiska)';
       case 'euStance':
         return 'Kandydaci (wg stosunku do UE)';
-      case 'mediaPresence':
-        return 'Kandydaci (wg obecności w mediach)';
       case 'russiaStance':
         return 'Kandydaci (wg stosunku do Rosji)';
       case 'ukraineStance':
@@ -28,7 +33,7 @@ const CandidateList = ({ candidates, sortCriteria }) => {
   };
 
   return (
-    <div className={styles.candidateList}>
+    <div className={styles.candidateList} ref={listRef}>
       <h2 className={styles.listTitle}>
         {getListTitle()}
       </h2>

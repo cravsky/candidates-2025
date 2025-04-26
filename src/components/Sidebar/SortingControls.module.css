@@ -20,9 +20,22 @@
   margin-bottom: 24px;
 }
 
+.group {
+  margin-bottom: 20px;
+}
+
+.groupTitle {
+  font-size: 1.1rem;
+  color: #333;
+  margin: 0 0 12px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid #eaeaea;
+}
+
 .option {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   position: relative;
+  padding-left: 8px;
 }
 
 .radioInput {
@@ -95,16 +108,20 @@
   font-size: 0.9rem;
   line-height: 1.5;
   color: #6c757d;
-  margin: 0 0 8px;
-}
-
-.infoText:last-child {
-  margin-bottom: 0;
+  margin: 0;
 }
 
 @media (max-width: 768px) {
   .controls {
     position: static;
     margin-bottom: 24px;
+  }
+  
+  .groupTitle {
+    font-size: 1rem;
+  }
+  
+  .radioText {
+    font-size: 0.9rem;
   }
 }
