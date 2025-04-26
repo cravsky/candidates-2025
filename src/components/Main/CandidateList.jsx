@@ -27,6 +27,14 @@ const CandidateList = ({ candidates, sortCriteria }) => {
         return 'Kandydaci (wg stosunku do Ukrainy)';
       case 'usStance':
         return 'Kandydaci (wg stosunku do USA)';
+      case 'climateEnergy':
+        return 'Kandydaci (wg stosunku do klimatu i energii)';
+      case 'economy':
+        return 'Kandydaci (wg poglądów gospodarczych)';
+      case 'security':
+        return 'Kandydaci (wg podejścia do bezpieczeństwa)';
+      case 'socialIdeology':
+        return 'Kandydaci (wg ideologii społecznej)';
       default:
         return 'Kandydaci (A-Z)';
     }

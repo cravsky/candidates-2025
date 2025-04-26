@@ -11,6 +11,10 @@ import candidatesUkraineStance from './data/ukraineStance.json';
 import candidatesUsStance from './data/usaStance.json';
 import candidatesExperience from './data/experience.json';
 import candidatesHighestPosition from './data/highestPosition.json';
+import candidatesClimateEnergy from './data/climateEnergy.json';
+import candidatesEconomy from './data/economy.json';
+import candidatesSecurity from './data/security.json';
+import candidatesSocialIdeology from './data/socialIdeology.json';
 import styles from './App.module.css';
 
 function App() {
@@ -32,6 +36,14 @@ function App() {
         return candidatesUkraineStance;
       case 'usStance':
         return candidatesUsStance;
+      case 'climateEnergy':
+        return candidatesClimateEnergy;
+      case 'economy':
+        return candidatesEconomy;
+      case 'security':
+        return candidatesSecurity;
+      case 'socialIdeology':
+        return candidatesSocialIdeology;
       default:
         return candidatesAlphabetical;
     }

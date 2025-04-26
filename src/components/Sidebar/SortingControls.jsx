@@ -21,6 +21,14 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
         return 'Wyświetlanie kandydatów według ich stosunku do Ukrainy.';
       case 'usStance':
         return 'Wyświetlanie kandydatów według ich stosunku do USA.';
+      case 'climateEnergy':
+        return 'Wyświetlanie kandydatów według ich stosunku do polityki klimatycznej i energetycznej.';
+      case 'economy':
+        return 'Wyświetlanie kandydatów według ich poglądów gospodarczych.';
+      case 'security':
+        return 'Wyświetlanie kandydatów według ich podejścia do bezpieczeństwa państwa.';
+      case 'socialIdeology':
+        return 'Wyświetlanie kandydatów według ich poglądów społecznych i ideologicznych.';
       default:
         return 'Wyświetlanie kandydatów w kolejności alfabetycznej wraz z ich stanowiskami.';
     }
@@ -66,6 +74,14 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
           {renderRadioOption('usStance', 'usStance', 'Stosunek do USA')}
           {renderRadioOption('russiaStance', 'russiaStance', 'Stosunek do Rosji')}
           {renderRadioOption('ukraineStance', 'ukraineStance', 'Stosunek do Ukrainy')}
+        </div>
+
+        <div className={styles.group}>
+          <h3 className={styles.groupTitle}>Polityka wewnętrzna</h3>
+          {renderRadioOption('climateEnergy', 'climateEnergy', 'Klimat i energia')}
+          {renderRadioOption('economy', 'economy', 'Gospodarka')}
+          {renderRadioOption('security', 'security', 'Bezpieczeństwo')}
+          {renderRadioOption('socialIdeology', 'socialIdeology', 'Ideologia społeczna')}
         </div>
       </div>
       
