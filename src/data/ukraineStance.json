@@ -1,67 +1,117 @@
 [
-    {
-      "name": "Rafał Trzaskowski",
-      "info1": "Zdecydowany zwolennik współpracy z Ukrainą",
-      "info2": "Otwarcie wspiera Ukrainę, aktywnie promuje pomoc humanitarną i polityczną"
-    },
-    {
-      "name": "Szymon Hołownia",
-      "info1": "Wspiera Ukrainę w wojnie i integracji z UE",
-      "info2": "Popiera pomoc wojskową i dyplomatyczną, podkreśla wspólnotę wartości"
-    },
-    {
-      "name": "Magdalena Biejat",
-      "info1": "Solidarna z Ukrainą",
-      "info2": "Wspiera działania pomocowe, opowiada się za wsparciem uchodźców i integracją Ukrainy z UE"
-    },
-    {
-      "name": "Adrian Zandberg",
-      "info1": "Popiera pomoc dla Ukrainy",
-      "info2": "Wspiera działania solidarnościowe, apeluje o dalszą pomoc humanitarną"
-    },
-    {
-      "name": "Joanna Senyszyn",
-      "info1": "Popiera niezależność Ukrainy",
-      "info2": "Występuje przeciwko rosyjskiej agresji, wspiera pomoc uchodźcom"
-    },
-    {
-      "name": "Karol Nawrocki",
-      "info1": "Umiarkowany zwolennik Ukrainy",
-      "info2": "Wypowiada się pozytywnie o historycznych relacjach, wspiera suwerenność Ukrainy"
-    },
-    {
-      "name": "Grzegorz Braun",
-      "info1": "Ambiwalentny wobec Ukrainy",
-      "info2": "Oskarżany o unikanie jednoznacznych deklaracji wsparcia, krytyczny wobec elit ukraińskich"
-    },
-    {
-      "name": "Sławomir Mentzen",
-      "info1": "Krytyczny wobec pomocy dla Ukrainy",
-      "info2": "Sprzeciwia się masowej imigracji Ukraińców, sceptyczny wobec dalszej pomocy"
-    },
-    {
-      "name": "Maciej Maciak",
-      "info1": "Przeciwnik polityki wspierania Ukrainy",
-      "info2": "Oskarżany o szerzenie treści antyukraińskich, promuje izolacjonizm"
-    },
-    {
-      "name": "Marek Jakubiak",
-      "info1": "Sceptyczny wobec wsparcia Ukrainy",
-      "info2": "Krytykuje zakres pomocy dla Ukrainy, powiązany z mediami promującymi niechęć do uchodźców"
-    },
-    {
-      "name": "Krzysztof Stanowski",
-      "info1": "Niejednoznaczny stosunek do Ukrainy",
-      "info2": "Nie wypowiada się jednoznacznie w tej kwestii, koncentruje się na mediach"
-    },
-    {
-      "name": "Artur Bartoszewicz",
-      "info1": "Neutralny technokrata",
-      "info2": "Brak publicznych wypowiedzi w sprawach Ukrainy"
-    },
-    {
-      "name": "Marek Marian Woch",
-      "info1": "Brak znanych poglądów",
-      "info2": "Nieznane stanowisko wobec Ukrainy"
-    }
-  ]
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Zdecydowane wsparcie dla Ukrainy",
+    "info2": "Wzywa do przygotowania europejskiego planu pokojowego dla Ukrainy",
+    "sources": [
+      "https://www.pap.pl/aktualnosci/biejat-europa-i-ukraina-musza-przygotowac-wlasny-plan-pokojowy"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Zdecydowane wsparcie dla Ukrainy",
+    "info2": "Podkreśla konieczność konfiskaty rosyjskich aktywów na rzecz Ukrainy",
+    "sources": [
+      "https://businessinsider.com.pl/wiadomosci/holownia-grzmi-w-sejmie-ws-ukrainy-bandyta-powinien-odpowiadac-ze-swojego-majatku/lzzwp8l"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Wspiera Ukrainę",
+    "info2": "Udostępnił mieszkania dla ukraińskich uchodźców",
+    "sources": [
+      "https://sport.fakt.pl/krzysztof-stanowski-zapowiedzial-pomoc-ukraincom-udostepni-dwa-mieszkania/vt3l0fl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Wspiera Ukrainę",
+    "info2": "Podkreśla znaczenie pomocy Ukrainie dla bezpieczeństwa Polski",
+    "sources": [
+      "https://www.ft.com/content/9a035cff-65d0-48ea-b235-60dbd53849da"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Wspiera Ukrainę",
+    "info2": "Podkreśla konieczność reakcji UE na agresję Rosji wobec Ukrainy",
+    "sources": [
+      "https://partiarazem.pl/aktualnosci/2022/02/24/uwolnijmy-ukraine-od-dlugow"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Krytyczna wobec ograniczania pomocy Ukrainie",
+    "info2": "Sprzeciwia się ograniczaniu świadczeń dla Ukraińców",
+    "sources": [
+      "https://www.wprost.pl/polityka/11927328/senyszyn-wstyd-ze-trzaskowski-chce-zabrac-ukraincom-zrodlo-utrzymania.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Ostrożne wsparcie dla Ukrainy",
+    "info2": "Podkreśla potrzebę wzajemności w relacjach z Ukrainą",
+    "sources": [
+      "https://www.pap.pl/aktualnosci/nawrocki-ukraina-musi-wiedziec-ze-polityka-kieruje-sie-regula-wzajemnosci-w-relacjach-3"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Sceptyczny wobec Ukrainy",
+    "info2": "Krytykuje noszenie ukraińskich symboli przez polskich polityków",
+    "sources": [
+      "https://www.radiomaryja.pl/informacje/dr-a-bartoszewicz-o-relacjach-polski-z-ukraina-nasi-politycy-na-klapie-od-marynarki-nosza-flagi-obcego-panstwa-po-drugiej-stronie-sa-ci-ktorzy-nami-gardza-ktorzy-uznaja-ze-mozna-nas-wykorzystac/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Sceptyczny wobec Ukrainy",
+    "info2": "Uważa, że Polska powinna stawiać warunki Ukrainie",
+    "sources": [
+      "https://www.youtube.com/watch?v=-o9XobyMZW8"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Krytyczny wobec Ukrainy",
+    "info2": "Uważa, że Ukraina traktuje Polskę instrumentalnie",
+    "sources": [
+      "https://www.youtube.com/watch?v=FvfT6a5QKgY"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Przeciwny pomocy Ukrainie",
+    "info2": "Sprzeciwia się dostarczaniu Ukrainie pomocy wojskowej i finansowej",
+    "sources": [
+      "https://www.gazetaprawna.pl/wiadomosci/kraj/artykuly/9752346%2Cgrzegorz-braun-ostro-o-pomocy-ukrainie-zadnych-czolgow-zadnego-800.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Prorosyjskie wypowiedzi",
+    "info2": "Oskarżany o szerzenie rosyjskiej propagandy",
+    "sources": [
+      "https://tvn24.pl/polska/wybory-prezydenckie-2025-maciej-maciak-kim-jest-kandydat-na-prezydenta-rosyjski-przekaz-dezinformacyjny-st8409642"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunków z Ukrainą",
+    "sources": [],
+    "noInfo": true
+  }
+]

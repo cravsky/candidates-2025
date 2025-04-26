@@ -1,67 +1,119 @@
 [
-    {
-      "name": "Szymon Hołownia",
-      "info1": "Marszałek Sejmu RP",
-      "info2": "Dziennikarz, prowadzący programów telewizyjnych"
-    },
-    {
-      "name": "Rafał Trzaskowski",
-      "info1": "Prezydent m.st. Warszawy",
-      "info2": "Wykładowca akademicki"
-    },
-    {
-      "name": "Magdalena Biejat",
-      "info1": "Senatorka RP",
-      "info2": "Socjolożka, działaczka społeczna"
-    },
-    {
-      "name": "Joanna Senyszyn",
-      "info1": "Posłanka na Sejm RP, Europosłanka",
-      "info2": "Profesor nauk humanistycznych"
-    },
-    {
-      "name": "Adrian Zandberg",
-      "info1": "Poseł na Sejm RP",
-      "info2": "Wykładowca akademicki"
-    },
-    {
-      "name": "Grzegorz Braun",
-      "info1": "Poseł na Sejm RP",
-      "info2": "Reżyser filmów dokumentalnych"
-    },
-    {
-      "name": "Marek Jakubiak",
-      "info1": "Poseł na Sejm RP",
-      "info2": "Przedsiębiorca, właściciel browaru"
-    },
-    {
-      "name": "Karol Nawrocki",
-      "info1": "Prezes Instytutu Pamięci Narodowej",
-      "info2": "Historyk, menedżer instytucji kultury"
-    },
-    {
-      "name": "Sławomir Mentzen",
-      "info1": "Radny sejmiku województwa kujawsko-pomorskiego",
-      "info2": "Doradca podatkowy"
-    },
-    {
-      "name": "Marek Marian Woch",
-      "info1": "Pracownik Biura Rzecznika Praw Obywatelskich",
-      "info2": "Prawnik"
-    },
-    {
-        "name": "Artur Bartoszewicz",
-        "info1": "Brak stanowisk w administracji",
-        "info2": "Nauczyciel akademicki SGH"
-    },
-    {
-        "name": "Krzysztof Stanowski",
-        "info1": "Brak stanowisk w administracji",
-        "info2": "Współzałożyciel Kanału Zero, dziennikarz"
-    },
-    {
-      "name": "Maciej Maciak",
-      "info1": "Brak stanowisk w administracji",
-      "info2": "Dziennikarz, YouTuber"
-    }
-  ]
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Marszałek Sejmu RP",
+    "info2": "Dziennikarz, prowadzący programy telewizyjne",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Prezydent m.st. Warszawy",
+    "info2": "Wykładowca akademicki",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Senatorka RP",
+    "info2": "Socjolożka, działaczka społeczna",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Posłanka na Sejm RP, Europosłanka",
+    "info2": "Profesor nauk humanistycznych",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Poseł na Sejm RP",
+    "info2": "Reżyser filmów dokumentalnych",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Poseł na Sejm RP",
+    "info2": "Wykładowca akademicki",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Poseł na Sejm RP",
+    "info2": "Przedsiębiorca, właściciel browaru",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Prezes Instytutu Pamięci Narodowej",
+    "info2": "Historyk, menedżer instytucji kultury",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Radny sejmiku województwa kujawsko-pomorskiego",
+    "info2": "Doradca podatkowy",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Zastępca Rzecznika Małych i Średnich Przedsiębiorców",
+    "info2": "Prawnik",
+    "sources": [
+      "https://rzecznikmsp.gov.pl/dr-n-pr-marek-woch-zastepca-rzecznika-malych-i-srednich-przedsiebiorcow/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Brak stanowisk w administracji",
+    "info2": "Wykładowca SGH",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Brak stanowisk w administracji",
+    "info2": "Dziennikarz, YouTuber",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maciej_Maciak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak stanowisk w administracji",
+    "info2": "Współzałożyciel Kanału Zero, dziennikarz",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Krzysztof_Stanowski"
+    ],
+    "noInfo": false
+  }
+]

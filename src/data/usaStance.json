@@ -1,0 +1,116 @@
+[
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Zdecydowany zwolennik sojuszu z USA",
+    "info2": "Podkreśla znaczenie relacji transatlantyckich dla bezpieczeństwa Polski",
+    "sources": [
+      "https://www.pap.pl/aktualnosci/trzaskowski-musimy-wzmacniac-sojusz-z-usa-i-wiezi-z-ue",
+      "https://wiadomosci.onet.pl/kraj/rafal-trzaskowski-o-relacjach-polski-z-usa-trump-nie-bedzie-mial-wyjscia/5q97edx"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Zwolennik silnych relacji z USA",
+    "info2": "Podkreśla potrzebę gwarancji bezpieczeństwa od USA",
+    "sources": [
+      "https://www.bankier.pl/wiadomosc/Holownia-o-wyborach-w-USA-bede-robil-wszystko-by-miec-jak-najlepsze-relacje-z-administracja-na-ktora-postawili-Amerykanie-8840348.html",
+      "https://www.facebook.com/szymonholowniaoficjalny/videos/w-relacjach-z-usa-musimy-si%C4%99-kierowa%C4%87-w%C5%82asnymi-interesami-usa-polska-nato-geopol/1174478730971191/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Zwolennik bliskich relacji z USA",
+    "info2": "Podkreśla znaczenie sojuszu z USA dla bezpieczeństwa Polski",
+    "sources": [
+      "https://www.ft.com/content/9a035cff-65d0-48ea-b235-60dbd53849da"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Zwolennik współpracy z USA",
+    "info2": "Wyraża poparcie dla Donalda Trumpa i jego polityki",
+    "sources": [
+      "https://businessinsider.com.pl/polityka/slawomir-mentzen-o-zwyciestwie-trumpa-wielka-role-odegral-elon-musk/eepjb9r",
+      "https://oko.press/trumpizm-polskiej-prawicy-ryzykowna-strategia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Krytyczny wobec współpracy z USA",
+    "info2": "Określa umowę o współpracy z USA jako 'Kolonizacja plus'",
+    "sources": [
+      "https://wiadomosci.dziennik.pl/polityka/artykuly/7823966%2Cgrzegorz-braun-konfederacja-usa-umowa-wspolpraca-polska-wojsko-armia.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Krytyczna wobec polityki USA",
+    "info2": "Oskarża USA o osłabianie i dzielenie Europy",
+    "sources": [
+      "https://www.pap.pl/aktualnosci/biejat-stany-zjednoczone-graja-dzis-na-oslabienie-europy"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Krytyczna wobec polityki USA",
+    "info2": "Uważa, że Polska prowadzi wasalną politykę wobec USA",
+    "sources": [
+      "https://natemat.pl/106153%2Cjoanna-senyszyn-polska-prowadzi-wasalna-polityke-wobec-usa-i-watykanu"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Ostrożny wobec polityki USA",
+    "info2": "Podkreśla potrzebę niezależnej polityki UE wobec USA",
+    "sources": [
+      "https://wszystkoconajwazniejsze.pl/pepites/program-adriana-zandberga-na-wybory-2025/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Krytyczny wobec polityki USA",
+    "info2": "Wyraża obawy dotyczące polityki celnej USA",
+    "sources": [
+      "https://www.polsatnews.pl/wiadomosc/2025-04-07/najwazniejsze-pytania-marek-jakubiak-europa-jest-narkomanem/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Krytyczny wobec polityki USA",
+    "info2": "Uważa, że Polska jest traktowana przez USA jako kraj drugiej kategorii",
+    "sources": [
+      "https://www.youtube.com/watch?v=aAY2E4HsdjA"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunków z USA",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunków z USA",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunków z USA",
+    "sources": [],
+    "noInfo": true
+  }
+]

@@ -2,66 +2,116 @@
   {
     "name": "Artur Bartoszewicz",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Nauczyciel akademicki, SGH"
+    "info2": "Stanowisko: Nauczyciel akademicki, SGH",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
   },
   {
     "name": "Magdalena Biejat",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Senatorka, Senat RP"
+    "info2": "Stanowisko: Senatorka, Senat RP",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
+    ],
+    "noInfo": false
   },
   {
     "name": "Grzegorz Braun",
     "info1": "Partia: Konfederacja Korony Polskiej",
-    "info2": "Stanowisko: Poseł do Parlamentu Europejskiego"
+    "info2": "Stanowisko: Poseł na Sejm RP",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
   },
   {
     "name": "Szymon Hołownia",
     "info1": "Partia: Polska 2050 Szymona Hołowni",
-    "info2": "Stanowisko: Marszałek Sejmu RP"
+    "info2": "Stanowisko: Marszałek Sejmu RP",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
   },
   {
     "name": "Marek Jakubiak",
     "info1": "Partia: Federacja dla Rzeczypospolitej",
-    "info2": "Stanowisko: Polityk"
+    "info2": "Stanowisko: Polityk",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
   },
   {
     "name": "Maciej Maciak",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Dziennikarz"
+    "info2": "Stanowisko: Dziennikarz, YouTuber",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Maciej_Maciak"
+    ],
+    "noInfo": false
   },
   {
     "name": "Sławomir Mentzen",
     "info1": "Partia: Konfederacja Wolność i Niepodległość",
-    "info2": "Stanowisko: Doradca podatkowy"
+    "info2": "Stanowisko: Doradca podatkowy",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
   },
   {
     "name": "Karol Nawrocki",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Prezes IPN"
+    "info2": "Stanowisko: Prezes IPN",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
   },
   {
     "name": "Joanna Senyszyn",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Dziennikarka"
+    "info2": "Stanowisko: Posłanka na Sejm RP",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
   },
   {
     "name": "Krzysztof Stanowski",
     "info1": "Partia: -",
-    "info2": "Stanowisko: Dziennikarz (Kanał Zero)"
+    "info2": "Stanowisko: Dziennikarz (Kanał Zero)",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Krzysztof_Stanowski"
+    ],
+    "noInfo": false
   },
   {
     "name": "Rafał Trzaskowski",
     "info1": "Partia: Platforma Obywatelska RP",
-    "info2": "Stanowisko: Prezydent Warszawy"
+    "info2": "Stanowisko: Prezydent Warszawy",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
   },
   {
     "name": "Marek Marian Woch",
     "info1": "Partia: Bezpartyjni Samorządowcy – Łączy nas Polska",
-    "info2": "Stanowisko: Prawnik"
+    "info2": "Stanowisko: Prawnik",
+    "sources": [],
+    "noInfo": true
   },
   {
     "name": "Adrian Zandberg",
     "info1": "Partia: Razem",
-    "info2": "Stanowisko: Poseł na Sejm RP"
+    "info2": "Stanowisko: Poseł na Sejm RP",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
+    ],
+    "noInfo": false
   }
 ]

@@ -1,67 +1,120 @@
 [
-    {
-      "name": "Maciej Maciak",
-      "info1": "Oskarżany o prorosyjskie sympatie",
-      "info2": "Krytykowany za szerzenie narracji zbieżnej z rosyjską propagandą"
-    },
-    {
-      "name": "Marek Jakubiak",
-      "info1": "Zarzuty o współpracę z pro-rosyjskimi mediami",
-      "info2": "Powiązania z portalem publikującym treści prorosyjskie i antyukraińskie"
-    },
-    {
-      "name": "Grzegorz Braun",
-      "info1": "Ambiwalentny stosunek do Rosji",
-      "info2": "Krytykowany za brak jednoznacznego potępienia działań Rosji, bliskość do antyzachodnich narracji"
-    },
-    {
-      "name": "Sławomir Mentzen",
-      "info1": "Sceptyczny wobec sankcji i narracji antyrosyjskiej",
-      "info2": "Podkreśla interes narodowy i ostrożność wobec angażowania się w konflikty międzynarodowe"
-    },
-    {
-      "name": "Karol Nawrocki",
-      "info1": "Negatywny stosunek do Rosji",
-      "info2": "Jako prezes IPN wspiera narrację historyczną podkreślającą zagrożenie ze strony Rosji"
-    },
-    {
-      "name": "Rafał Trzaskowski",
-      "info1": "Zdecydowany przeciwnik polityki rosyjskiej",
-      "info2": "Popiera pomoc Ukrainie, otwarcie krytykuje rosyjski imperializm"
-    },
-    {
-      "name": "Szymon Hołownia",
-      "info1": "Przeciwnik rosyjskiej agresji",
-      "info2": "Wypowiada się stanowczo przeciwko działaniom Rosji wobec Ukrainy"
-    },
-    {
-      "name": "Adrian Zandberg",
-      "info1": "Krytyczny wobec Rosji",
-      "info2": "Wspiera pomoc dla Ukrainy, krytykuje agresję Kremla"
-    },
-    {
-      "name": "Magdalena Biejat",
-      "info1": "Krytyczka polityki rosyjskiej",
-      "info2": "Otwarcie popiera sankcje i działania antyrosyjskie w UE"
-    },
-    {
-      "name": "Joanna Senyszyn",
-      "info1": "Negatywny stosunek do Rosji",
-      "info2": "Popiera działania UE przeciwko rosyjskiej agresji"
-    },
-    {
-      "name": "Krzysztof Stanowski",
-      "info1": "Brak jednoznacznego stanowiska",
-      "info2": "Dziennikarz, nie zabierał wyraźnego głosu ws. Rosji"
-    },
-    {
-      "name": "Artur Bartoszewicz",
-      "info1": "Technokratyczna neutralność",
-      "info2": "Nie wypowiada się publicznie w sprawach polityki zagranicznej"
-    },
-    {
-      "name": "Marek Marian Woch",
-      "info1": "Brak znanych poglądów nt. Rosji",
-      "info2": "Brak publicznych wypowiedzi na ten temat"
-    }
-  ]
+  {
+    "name": "Maciej Maciak",
+    "info1": "Prorosyjskie wypowiedzi",
+    "info2": "Oskarżany o szerzenie rosyjskiej propagandy",
+    "sources": [
+      "https://tvn24.pl/polska/wybory-prezydenckie-2025-maciej-maciak-kim-jest-kandydat-na-prezydenta-rosyjski-przekaz-dezinformacyjny-st8409642"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Prorosyjskie wypowiedzi",
+    "info2": "Promował oświadczenia obwiniające Ukrainę za wojnę",
+    "sources": [
+      "https://oko.press/posel-polskiego-sejmu-promuje-prorosyjskie-oswiadczenie",
+      "https://www.newsweek.pl/polska/polityka/grzegorz-braun-i-kontakty-z-ludzmi-rosyjskich-sluzb-to-trzeba-przeswietlic/rsjwl73"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Sceptyczny wobec polityki Rosji",
+    "info2": "Wzywa do negocjacji z Putinem w celu zakończenia wojny",
+    "sources": [
+      "https://wiadomosci.onet.pl/kraj/slawomir-mentzen-o-koncu-wojny-trzeba-sie-z-putinem-dogadac/c23jj6j"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Sceptyczny wobec polityki Rosji",
+    "info2": "Krytykuje pomysł rozlokowania amerykańskiej broni jądrowej w Polsce",
+    "sources": [
+      "https://niezalezna.pl/polityka/dr-bartoszewicz-odlecial-udzielil-wywiadu-geopolitykowi-od-interesow-kremla-domagal-sie-stosunkow-z-rosja/516744"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Sceptyczna wobec zagrożenia ze strony Rosji",
+    "info2": "Uważa, że wojna z Rosją Polsce nie grozi",
+    "sources": [
+      "https://video.onet.pl/biezace/joanna-senyszyn-o-sytuacji-na-wschodzie-nam-wojna-z-rosja-nie-grozi/p4s9nsl"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Krytyczny wobec Rosji",
+    "info2": "Uważa, że brak reakcji na działania Rosji może zagrozić Polsce",
+    "sources": [
+      "https://dorzeczy.pl/opinie/282370/jakubiak-o-rosji-za-10-lat-ofiara-bedzie-polska.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Zdecydowany przeciwnik polityki Rosji",
+    "info2": "Wzywa do zerwania stosunków z Rosją",
+    "sources": [
+      "https://wszystkoconajwazniejsze.pl/pepites/karol-nawrocki-o-stosunkach-z-rosja/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Krytyczny wobec Rosji",
+    "info2": "Publicznie potępił działania Putina",
+    "sources": [
+      "https://www.pudelek.pl/krzysztof-stanowski-komentuje-decyzje-o-niewykluczaniu-rosji-z-mistrzostw-swiata-w-pilce-noznej-j-bac-putina-i-fifa-6742216524061184a"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Krytyczny wobec Rosji",
+    "info2": "Podkreśla konieczność reakcji UE na agresję Rosji",
+    "sources": [
+      "https://partiarazem.pl/aktualnosci/2022/02/24/uwolnijmy-ukraine-od-dlugow"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Krytyczna wobec Rosji",
+    "info2": "Wzywa do wykorzystania zamrożonych rosyjskich aktywów na rzecz Ukrainy",
+    "sources": [
+      "https://www.youtube.com/watch?v=9tMFXyDiE30",
+      "https://www.polskieradio.pl/399/11359/artykul/3488411%2Cmagdalena-biejat-nie-mozemy-oddzielac-interesu-ukrainskiego-i-polskiego"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Zdecydowany przeciwnik polityki Rosji",
+    "info2": "Wyraził gotowość do zdecydowanej reakcji wobec działań Putina",
+    "sources": [
+      "https://businessinsider.com.pl/polityka/szymon-holownia-putina-wgnieciemy-w-ziemie-mowa-juz-o-wojnie-obronnej/5l3wsbg"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Zdecydowany przeciwnik polityki Rosji",
+    "info2": "Podkreśla konieczność silnej odpowiedzi na agresję Rosji",
+    "sources": [
+      "https://www.ft.com/content/9a035cff-65d0-48ea-b235-60dbd53849da",
+      "https://dorzeczy.pl/kraj/679099/polska-vs-rosja-trzaskowski-putin-rozumie-tylko-jezyk-sily.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunków z Rosją",
+    "sources": [],
+    "noInfo": true
+  }
+]

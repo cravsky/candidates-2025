@@ -12,7 +12,7 @@ import candidatesEuStance from './data/euStance.json';
 import candidatesMediaPresence from './data/mediaPresence.json';
 import candidatesRussiaStance from './data/russiaStance.json';
 import candidatesUkraineStance from './data/ukraineStance.json';
-import candidatesUsStance from './data/usStance.json';
+import candidatesUsStance from './data/usaStance.json';
 import styles from './App.module.css';
 
 function App() {

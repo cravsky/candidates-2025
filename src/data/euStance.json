@@ -1,67 +1,117 @@
 [
-    {
-      "name": "Rafał Trzaskowski",
-      "info1": "Zdecydowany zwolennik integracji z UE",
-      "info2": "Aktywny udział w strukturach UE, promuje silną pozycję Polski w UE"
-    },
-    {
-      "name": "Szymon Hołownia",
-      "info1": "Zwolennik integracji z UE",
-      "info2": "Postuluje budowę silnej pozycji Polski w ramach UE, podkreśla znaczenie wartości europejskich"
-    },
-    {
-      "name": "Adrian Zandberg",
-      "info1": "Zwolennik integracji z UE",
-      "info2": "Krytyczny wobec neoliberalnych polityk UE, ale wspiera ideę wspólnoty i solidarności europejskiej"
-    },
-    {
-      "name": "Magdalena Biejat",
-      "info1": "Zwolenniczka integracji z UE",
-      "info2": "Wspiera politykę społeczną i klimatyczną UE, promuje współpracę z państwami członkowskimi"
-    },
-    {
-      "name": "Joanna Senyszyn",
-      "info1": "Umiarkowana zwolenniczka UE",
-      "info2": "Popiera członkostwo Polski w UE, promuje świecki i liberalny model państwa"
-    },
-    {
-      "name": "Artur Bartoszewicz",
-      "info1": "Technokratyczne podejście do UE",
-      "info2": "Popiera wykorzystanie funduszy unijnych i integrację gospodarczą, neutralny politycznie"
-    },
-    {
-      "name": "Karol Nawrocki",
-      "info1": "Neutralny wobec UE",
-      "info2": "Koncentruje się na polityce krajowej, wypowiedzi wobec UE umiarkowane"
-    },
-    {
-      "name": "Krzysztof Stanowski",
-      "info1": "Niezaangażowany politycznie",
-      "info2": "Dziennikarz, brak jednoznacznych deklaracji w sprawach UE"
-    },
-    {
-      "name": "Marek Marian Woch",
-      "info1": "Nieznane stanowisko wobec UE",
-      "info2": "Brak publicznych wypowiedzi nt. integracji europejskiej"
-    },
-    {
-      "name": "Maciej Maciak",
-      "info1": "Eurorealista",
-      "info2": "Krytyczny wobec niektórych działań UE, promuje niezależność polityczną"
-    },
-    {
-      "name": "Marek Jakubiak",
-      "info1": "Sceptyczny wobec UE",
-      "info2": "Krytykuje politykę UE wobec Polski, podkreśla suwerenność narodową"
-    },
-    {
-      "name": "Sławomir Mentzen",
-      "info1": "Eurosceptyk",
-      "info2": "Krytyczny wobec integracji, sprzeciwia się wpływowi UE na politykę krajową"
-    },
-    {
-      "name": "Grzegorz Braun",
-      "info1": "Silny eurosceptyk",
-      "info2": "Wzywa do wyjścia Polski z UE, otwarcie krytykuje jej instytucje i politykę"
-    }
-  ]
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "Zdecydowany zwolennik integracji z UE",
+    "info2": "Podkreśla znaczenie Unii Europejskiej dla bezpieczeństwa i rozwoju Polski",
+    "sources": [
+      "https://dorzeczy.pl/opinie/705639/trzaskowski-unia-europejska-to-nasze-bezpieczenstwo.html",
+      "https://www.ft.com/content/9a035cff-65d0-48ea-b235-60dbd53849da"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "Zwolennik silnej obecności Polski w UE",
+    "info2": "Proponuje ustawę utrudniającą ewentualne wyjście Polski z Unii Europejskiej",
+    "sources": [
+      "https://wiadomosci.onet.pl/kraj/szymon-holownia-chce-utrudnic-polexit-zapowiedzial-projekt-ustawy/4bhtgjq",
+      "https://www.pap.pl/aktualnosci/marszalek-holownia-polska-nie-jest-w-ue-polska-jest-unia-europejska-i-nia-pozostanie"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "Zdecydowana zwolenniczka integracji europejskiej",
+    "info2": "Wzywa do wzmocnienia roli UE w polityce bezpieczeństwa",
+    "sources": [
+      "https://www.pap.pl/aktualnosci/biejat-nasze-bezpieczenstwo-lezy-w-europie-nie-w-umizgiwaniu-sie-do-trumpa-1"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "Zwolennik reformy UE",
+    "info2": "Postuluje zmiany traktatowe i odbudowę potencjału produkcyjnego Unii",
+    "sources": [
+      "https://europapnews.pap.pl/zandberg-europa-musi-odbudowac-swoj-potencjal-produkcyjny"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "Zwolenniczka obecności Polski w UE",
+    "info2": "Podkreśla znaczenie udziału Polski w pracach Unii Europejskiej",
+    "sources": [
+      "https://www.youtube.com/watch?v=Z8iFmA0mV4E"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "Sceptyczny wobec obecnego kierunku UE",
+    "info2": "Krytykuje nadmierną ingerencję Unii w sprawy wewnętrzne państw członkowskich",
+    "sources": [
+      "https://wpolityce.pl/polityka/723982-nawrocki-wchodzilismy-do-ue-a-nie-do-parapanstwa"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "Krytyczny wobec obecnej polityki UE",
+    "info2": "Uważa, że Unia Europejska odchodzi od wartości, na których została zbudowana",
+    "sources": [
+      "https://www.radiomaryja.pl/informacje/dr-a-bartoszewicz-to-co-jest-robione-dzisiaj-na-naszych-oczach-w-unii-europejskiej-to-jest-nic-innego-jak-ketman/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "Zwolennik koncepcji Europy Ojczyzn",
+    "info2": "Opowiada się przeciwko federalizacji Unii Europejskiej",
+    "sources": [
+      "https://europapnews.pap.pl/okreg-nr-8/7-komitet-wyborczy-wyborcow-polska-fair-play-bezpartyjni-gwiazdowski/woch-marek-marian"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "Eurosceptyk",
+    "info2": "Krytykuje politykę UE i jej wpływ na polską gospodarkę",
+    "sources": [
+      "https://wiadomosci.wp.pl/pani-malo-rozumie-mentzen-starl-sie-z-dziennikarka-7136461900638848a"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "Krytyczny wobec polityki UE",
+    "info2": "Uważa, że Unia Europejska to niemiecki biznes, a nie strategia bezpieczeństwa",
+    "sources": [
+      "https://dorzeczy.pl/opinie/708243/jakubiak-unia-to-niemiecki-biznes-a-nie-strategia-bezpieczenstwa.html"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "Zdecydowany przeciwnik integracji z UE",
+    "info2": "Krytykuje Unię Europejską i jej instytucje",
+    "sources": [
+      "https://wiadomosci.wp.pl/grzegorz-braun-dal-popis-w-parlamencie-europejskim-rozlegl-sie-okrzyk-zlodzieje-7084541900401216a"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunku do Unii Europejskiej",
+    "sources": [],
+    "noInfo": true
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "Brak jednoznacznego stanowiska",
+    "info2": "Nie wypowiadał się publicznie na temat stosunku do Unii Europejskiej",
+    "sources": [],
+    "noInfo": true
+  }
+]

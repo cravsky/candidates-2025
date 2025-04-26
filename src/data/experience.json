@@ -1,67 +1,119 @@
 [
-    {
-      "name": "Joanna Senyszyn",
-      "info1": "13 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Rafał Trzaskowski",
-      "info1": "6 lat w administracji rządowej",
-      "info2": "6 lat w administracji samorządowej"
-    },
-    {
-      "name": "Magdalena Biejat",
-      "info1": "4 lata w administracji rządowej",
-      "info2": "4 lata w administracji samorządowej"
-    },
-    {
-      "name": "Grzegorz Braun",
-      "info1": "5 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Adrian Zandberg",
-      "info1": "5 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Marek Jakubiak",
-      "info1": "4 lata w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Szymon Hołownia",
-      "info1": "2 lata w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Karol Nawrocki",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Sławomir Mentzen",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Maciej Maciak",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Krzysztof Stanowski",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Artur Bartoszewicz",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    },
-    {
-      "name": "Marek Marian Woch",
-      "info1": "0 lat w administracji rządowej",
-      "info2": "0 lat w administracji samorządowej"
-    }
-  ]
+  {
+    "name": "Joanna Senyszyn",
+    "info1": "13 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Joanna_Senyszyn"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Rafał Trzaskowski",
+    "info1": "6 lat w administracji rządowej",
+    "info2": "6 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Rafa%C5%82_Trzaskowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Magdalena Biejat",
+    "info1": "4 lata w administracji rządowej",
+    "info2": "4 lata w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Magdalena_Biejat"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Grzegorz Braun",
+    "info1": "5 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Adrian Zandberg",
+    "info1": "5 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Adrian_Zandberg"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Marian Woch",
+    "info1": "5 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://rzecznikmsp.gov.pl/dr-n-pr-marek-woch-zastepca-rzecznika-malych-i-srednich-przedsiebiorcow/"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Marek Jakubiak",
+    "info1": "4 lata w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Marek_Jakubiak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Szymon Hołownia",
+    "info1": "2 lata w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Szymon_Ho%C5%82ownia"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Karol Nawrocki",
+    "info1": "0 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Karol_Nawrocki"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Sławomir Mentzen",
+    "info1": "0 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Maciej Maciak",
+    "info1": "0 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Maciej_Maciak"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Krzysztof Stanowski",
+    "info1": "0 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Krzysztof_Stanowski"
+    ],
+    "noInfo": false
+  },
+  {
+    "name": "Artur Bartoszewicz",
+    "info1": "0 lat w administracji rządowej",
+    "info2": "0 lat w administracji samorządowej",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Artur_Bartoszewicz"
+    ],
+    "noInfo": false
+  }
+]
