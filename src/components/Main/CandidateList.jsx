@@ -3,13 +3,19 @@ import CandidateCard from './CandidateCard';
 import styles from './CandidateList.module.css';
 
 const CandidateList = ({ candidates, sortCriteria }) => {
-  const listRef = useRef(null);
-
-  useEffect(() => {
-    if (listRef.current) {
-      listRef.current.scrollIntoView({ behavior: 'smooth' });
-    }
-  }, [sortCriteria]);
+    const listRef = useRef(null);
+    const isFirstRender = useRef(true);
+  
+    useEffect(() => {
+      if (isFirstRender.current) {
+        isFirstRender.current = false;
+        return;
+      }
+      // Only scroll if the user is not at the top
+      if (listRef.current && window.scrollY > 100) {
+        listRef.current.scrollIntoView({ behavior: 'smooth' });
+      }
+    }, [sortCriteria]);
 
   const getListTitle = () => {
     switch(sortCriteria) {
