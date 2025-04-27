@@ -1,20 +1,20 @@
 [
   {
+    "name": "Grzegorz Braun",
+    "info1": "Skrajnie wolnorynkowe poglądy",
+    "info2": "Sprzeciw wobec podatków i programów socjalnych, przeciwny euro",
+    "sources": [
+      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
+    ],
+    "noInfo": false
+  },
+  {
     "name": "Sławomir Mentzen",
     "info1": "Zwolennik wolnego rynku",
     "info2": "Opowiada się za niskimi podatkami, ograniczeniem programów socjalnych, przeciwny wprowadzeniu euro",
     "sources": [
       "https://pl.wikipedia.org/wiki/S%C5%82awomir_Mentzen",
       "https://mentzen2025.pl"
-    ],
-    "noInfo": false
-  },
-  {
-    "name": "Grzegorz Braun",
-    "info1": "Skrajnie wolnorynkowe poglądy",
-    "info2": "Sprzeciw wobec podatków i programów socjalnych, przeciwny euro",
-    "sources": [
-      "https://pl.wikipedia.org/wiki/Grzegorz_Braun"
     ],
     "noInfo": false
   },

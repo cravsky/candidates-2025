@@ -56,16 +56,12 @@ const SortingControls = ({ sortCriteria, onSortingChange }) => {
     <div className={styles.controls}>
       <h2 className={styles.title}>Wybierz kategorię</h2>
       <div className={styles.optionsContainer}>
-        <div className={styles.group}>
-          <h3 className={styles.groupTitle}>Podstawowe</h3>
-          {renderRadioOption('alphabetical', 'alphabetical', 'Przynależność partyjna')}
-          {renderRadioOption('age', 'age', 'Wiek')}
-        </div>
-
+      
         <div className={styles.group}>
           <h3 className={styles.groupTitle}>Doświadczenie</h3>
-          {renderRadioOption('highestPosition', 'highestPosition', 'Najwyższe stanowisko')}
-          {renderRadioOption('experience', 'experience', 'Doświadczenie w administracji')}
+          {renderRadioOption('alphabetical', 'alphabetical', 'Przynależność partyjna')}
+          {renderRadioOption('age', 'age', 'Wiek')}
+          {renderRadioOption('highestPosition', 'highestPosition', 'Stanowisko w administracji')}
         </div>
 
         <div className={styles.group}>
