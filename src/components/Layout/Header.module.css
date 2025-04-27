@@ -3,11 +3,13 @@
   color: white;
   padding: 24px 16px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  position: relative;
 }
 
 .headerContent {
   max-width: 1200px;
   margin: 0 auto;
+  position: relative;
 }
 
 .title {
@@ -24,12 +26,117 @@
   opacity: 0.9;
 }
 
+.infoButton {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: rgba(255, 255, 255, 0.1);
+  border: none;
+  color: white;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 0;
+  transition: all 0.2s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.infoButton:hover {
+  background: rgba(255, 255, 255, 0.2);
+  transform: translateY(-1px);
+}
+
+.modalContent {
+  color: #333;
+  padding: 8px;
+}
+
+.modalTitle {
+  font-size: 1.8rem;
+  color: #d4213d;
+  margin: 0 0 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.modalText {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+.modalText p {
+  margin: 16px 0;
+}
+
+.modalVersion {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.versionTag {
+  background: #f0f0f0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.modalDisclaimer {
+  font-style: italic;
+  color: #666;
+  border-left: 3px solid #d4213d;
+  padding-left: 12px;
+  margin: 24px 0;
+}
+
+.modalLink {
+  margin-top: 24px;
+  padding-top: 16px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.modalLink a {
+  color: #4361ee;
+  text-decoration: none;
+  font-weight: 500;
+  padding: 4px 8px;
+  border-radius: 4px;
+  background: #f8f9fa;
+  transition: all 0.2s ease;
+}
+
+.modalLink a:hover {
+  background: #4361ee;
+  color: white;
+  text-decoration: none;
+}
+
 @media (max-width: 768px) {
   .title {
     font-size: 1.8rem;
+    padding-right: 50px;
   }
   
   .subtitle {
+    font-size: 1rem;
+  }
+
+  .infoButton {
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  .modalTitle {
+    font-size: 1.5rem;
+  }
+  
+  .modalText {
     font-size: 1rem;
   }
 }
