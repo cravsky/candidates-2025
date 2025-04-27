@@ -1,11 +1,12 @@
 import { useState } from 'react';
 import { FiInfo } from 'react-icons/fi';
+import { FaLinkedin } from 'react-icons/fa';
 import Modal from './Modal';
 import styles from './Header.module.css';
 
 const Header = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const version = "0.0.0"; // Version from package.json
+  const version = "1.0.0";
 
   return (
     <header className={styles.header}>
@@ -27,7 +28,7 @@ const Header = () => {
           <div className={styles.modalText}>
             <p className={styles.modalVersion}>
               Kandydaci na Prezydenta Polski 2025
-              <span className={styles.versionTag}>v. {version}</span>
+              <span className={styles.versionTag}>v. 1.0.0</span>
             </p>
             <p>
               Aplikacja umożliwia zapoznanie się z kandydatami na Prezydenta Polski 
@@ -38,9 +39,18 @@ const Header = () => {
             </p>
             <p className={styles.modalDisclaimer}>
               Za wszelkie możliwe nieścisłości i błędy serdecznie przepraszam.
-            </p>
-            <p className={styles.modalLink}>
-              Mój profil LinkedIn: <a href="[Tutaj wstaw link]" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+              <span className={styles.signatureContainer}>
+                <span className={styles.signature}>~Krzysztof Krawczyński</span>
+                <a 
+                  href="https://www.linkedin.com/in/cravsky/" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className={styles.linkedInLink}
+                  aria-label="LinkedIn Profile"
+                >
+                  <FaLinkedin size={20} />
+                </a>
+              </span>
             </p>
           </div>
         </div>

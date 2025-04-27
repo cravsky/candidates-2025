@@ -95,26 +95,29 @@
   margin: 24px 0;
 }
 
-.modalLink {
-  margin-top: 24px;
-  padding-top: 16px;
-  border-top: 1px solid #f0f0f0;
+.signatureContainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
 }
 
-.modalLink a {
-  color: #4361ee;
-  text-decoration: none;
+.signature {
+  font-style: normal;
   font-weight: 500;
-  padding: 4px 8px;
-  border-radius: 4px;
-  background: #f8f9fa;
+  color: #333;
+}
+
+.linkedInLink {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #0077b5;
   transition: all 0.2s ease;
 }
 
-.modalLink a:hover {
-  background: #4361ee;
-  color: white;
-  text-decoration: none;
+.linkedInLink:hover {
+  transform: translateY(-2px);
 }
 
 @media (max-width: 768px) {
