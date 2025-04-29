@@ -6,7 +6,7 @@ import styles from './Header.module.css';
 
 const Header = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const version = "1.0.0";
+  const version = "1.0.2";
 
   return (
     <header className={styles.header}>
